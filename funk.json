@@ -16,11 +16,17 @@
     "audioUrl": "https://github.com/YaserMod/Xelahot-App/raw/refs/heads/main/The%20Streets%20Of%20Whiterun.mp3",
     "duration": "4:04",
     "coverUrl": "https://github.com/YaserMod/Xelahot-App/raw/refs/heads/main/The%20Streets%20Of%20Whiterun.png"
-  }, 
+  },
   {
     "title": "Emotional Theme OST Pushpa 2",
     "audioUrl": "https://github.com/YaserMod/Xelahot-App/raw/refs/heads/main/Pushpa%202%20theme.mp3",
     "duration": "2:00",
     "coverUrl": "https://github.com/YaserMod/Xelahot-App/raw/refs/heads/main/Pushpa%202%20theme.png"
+  },
+  {
+    "title": "Funk sigilo slowed",
+    "audioUrl": "https://github.com/YaserMod/Xelahot-App/raw/refs/heads/main/Funk%20sigilo%20slowed.mp3",
+    "duration": "1:43",
+    "coverUrl": "https://github.com/YaserMod/Xelahot-App/raw/refs/heads/main/Funk%20sigilo%20slowed.png"
   }
 ]
